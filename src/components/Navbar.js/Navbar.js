@@ -7,10 +7,10 @@ function Navbar() {
     <div className="m-0 p-0 container-fluid">
       {" "}
       {/*main container*/}
-      <nav class="navbar navbar-expand-md navbar-dark bg-success m-0 py-1 px-3 ">
+      <nav class="navbar navbar-expand-md navbar-dark bg-primary   m-0 py-1 px-3 ">
         <div className="container-fluid ">
 
-          <div class="w-100  d-md-flex">
+          <div class="w-100  d-md-flex   ">
             {/* logo_company */}
 
             <div className="d-flex justify-content-between w-100  ">
